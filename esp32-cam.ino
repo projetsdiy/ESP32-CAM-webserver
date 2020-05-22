@@ -1,6 +1,9 @@
 /*********
   projetsdiy.fr - diyprojects.io
-
+  
+  Step by step tutorial
+  En français https://projetsdiy.fr/esp32-cam-flash-firmware-test-domoticz-jeedom-home-assistant-nextdom-node-red/
+  
   IMPORTANT BEFORE TO DOWNLOAD SKETCH !!!
    - Install ESP32 libraries
    - Select Board "ESP32 Wrover Module"
