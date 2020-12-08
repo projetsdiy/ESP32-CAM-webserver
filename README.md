@@ -51,7 +51,7 @@ Avant de téléverser, vous devez modifier plusieurs paramètres
   * CAMERA_MODEL_M5STACK_PSRAM
   * CAMERA_MODEL_M5STACK_WIDE
   * CAMERA_MODEL_AI_THINKER
-* Connecter l'ESP32-CAM à l'adaptateyr [FTDI](http://s.click.aliexpress.com/e/_d8ldxmV)
+* Connecter l'ESP32-CAM à l'adaptateur [FTDI](http://s.click.aliexpress.com/e/_d8ldxmV)
   * GND sur GND
   * 5V sur 5V
   * RX sur UOR
