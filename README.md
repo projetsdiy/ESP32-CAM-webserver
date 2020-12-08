@@ -1,3 +1,5 @@
+# Project moved to [this new repository](https://github.com/projetsdiy/ESP32-CAM-Projects)
+
 # ESP32-CAM firmware with Webserver modified
 This is a modified firmware from [Espressif](https://github.com/espressif/esp32-camera) with the following upgrade
 * Stream video at IP/stream. Easy to integrate in a smart home server
