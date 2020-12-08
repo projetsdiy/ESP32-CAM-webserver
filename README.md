@@ -3,7 +3,7 @@ This is a modified firmware from [Espressif](https://github.com/espressif/esp32-
 * Stream video at IP/stream. Easy to integrate in a smart home server
 * Take snapshot at IP_CAM/jpg/image.jpg
 
-Before to download, you need to modify several settings :
+Before to upload firmware, you need to modify several settings :
 * Network ssid
 * Network password
 * Adjust picture orientation according the position of the ESP32-CAM FLIP_V, MIRROR_H (true or false)
